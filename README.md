@@ -24,10 +24,10 @@ User could start working on CarCloud project by downloading initial project file
 ### Compile
 Agency Tool extension will automcatically compile scss files to css. Every time user chagens scss file the plugin will compile this file to css. If some errors appear it will display issues in Problems view.
 
-### Upload
+### Preview
 User could preview current changes by pressing 'Preview' button on tool window panel.
 
-![Toolwindow buttons](https://github.com/aldanchenko/agency-tool-docs/blob/main/media/Toolwindow buttons.png?raw=true)
+![Buttons](https://github.com/aldanchenko/agency-tool-docs/blob/main/media/toolwindow-buttons.png?raw=true)
 
 ### Upload
 User could use Agency Tool plugin for upload(deploy) results to CarCloud Amazon bucket. For this, please, use 'Deploy' button on tool window panel.
