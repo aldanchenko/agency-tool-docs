@@ -6,11 +6,11 @@ Agency Tool is an application that helps the development of custom CSS for sites
 
 To use this extension first you need to configure it. For this, please, enter 'Access key' and 'Secret key' in Settings. For this you could use 'Settings' button on tool window panel.
 
-\!\[Setup credentials\]\(media/settings-credentials.gif\)
+![Credentials](https://github.com/aldanchenko/agency-tool-docs/blob/main/media/settings-credentials.gif?raw=true)
 
 Also you could configure elements displayed in Explorer tool window. For example, you could show/hide node_modules, dist, package.json elements.
 
-\!\[Setup credentials\]\(media/settings-show-hide-elements.gif\)
+![Show/Hide elements](https://github.com/aldanchenko/agency-tool-docs/blob/main/media/settings-show-hide-elements.gif?raw=true)
 
 > Tip: This configure will show or hide this elements globally.
 
@@ -19,7 +19,7 @@ Also you could configure elements displayed in Explorer tool window. For example
 ### Download
 User could start working on CarCloud project by downloading initial project files from Amazon S3 bucket. For this user could use 'Download Starter Zip' button on tool window panel.
 
-\!\[Setup credentials\]\(media/download.gif\)
+![Show/Hide elements](https://github.com/aldanchenko/agency-tool-docs/blob/main/media/download.gif?raw=true)
 
 ### Compile
 Agency Tool extension will automcatically compile scss files to css. Every time user chagens scss file the plugin will compile this file to css. If some errors appear it will display issues in Problems view.
@@ -27,12 +27,12 @@ Agency Tool extension will automcatically compile scss files to css. Every time 
 ### Upload
 User could preview current changes by pressing 'Preview' button on tool window panel.
 
-\!\[Setup credentials\]\(media/Toolwindow buttons.png\)
+![Toolwindow buttons](https://github.com/aldanchenko/agency-tool-docs/blob/main/media/Toolwindow buttons.png?raw=true)
 
 ### Upload
 User could use Agency Tool plugin for upload(deploy) results to CarCloud Amazon bucket. For this, please, use 'Deploy' button on tool window panel.
 
-\!\[Setup credentials\]\(media/upload.gif\)
+![Upload](https://github.com/aldanchenko/agency-tool-docs/blob/main/media/upload.gif?raw=true)
 
 ### Auto update
 
