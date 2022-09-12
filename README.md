@@ -1,4 +1,4 @@
-# agencytool README
+# AgencyTool
 
 Agency Tool is an application that helps the development of custom CSS for sites hosted on CarCloud servers. It allows for editing the CSS, uploading the packed styling as well as previewing the site with locally compiled SCSS.
 
